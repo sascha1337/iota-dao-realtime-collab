@@ -1,8 +1,5 @@
 # IOTA Community DAO Treasury Realtime Collaboration Document
 
-[![hackmd-github-sync-badge](https://hackmd.io/A-OM5lyiTfafXy6pkzkvQw/badge)](https://hackmd.io/A-OM5lyiTfafXy6pkzkvQw)
-
-
 > This is an open collaborative platform, where everyone is able to contribute and write down their interesting ideas, outcomes, questions and critics. It would be appreciated, if anyone takes their time, to compile valuable information and media from the discord, spec channel :fire:, twitter, github, or any other chat into this document. 
 
 
